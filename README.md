@@ -4,16 +4,16 @@
 
 - 🔭 I’m currently working on [a Registration Capstone Project](https://github.com/LinkedMonkeys/registration-reservation-system)
 
-- 🌱 I’m currently learning **Artificial Intelligence and learning software org, software engineering, and algorithms soon**
+- 🌱 I’m currently learning **Artificial Intelligence, learned software org, software engineering, and algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aclpaculba](https://github.com/aclpaculba)
+- 👨‍💻 All of my projects are available at [https://github.com/ianredmann](https://github.com/ianredmann)
 
-- 📫 How to reach me **antpaculba@gmail.com**
+- 📫 How to reach me **ianredman858@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anthony paculba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony paculba" height="30" width="40" /></a>
-<a href="https://instagram.com/apaculba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apaculba" height="30" width="40" /></a>
+<a href="https://instagram.com/ianredmann_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apaculba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
