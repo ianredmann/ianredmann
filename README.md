@@ -14,7 +14,7 @@ Computer Science & Applied Mathematics Senior | Full-Stack & Analytical Projects
 ### 🔭 Current Focus
 - Building a **Registration & Reservation Web App**  
   (Node.js, SQLite, EJS, JavaScript)  
-  👉 [View Project](https://github.com/LinkedMonkeys/registration-reservation-system)
+  👉 [View Project](https://github.com/ianredmann/registration-reservation-system)
 
 ---
 
