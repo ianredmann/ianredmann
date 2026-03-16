@@ -7,7 +7,7 @@ Computer Science & Applied Mathematics Senior | Full-Stack & Analytical Projects
 ---
 
 🎓 I’m a senior at Ouachita Baptist University double majoring in Computer Science and Applied Mathematics.  
-💻 I enjoy building full-stack applications and applying mathematical reasoning to real-world data problems.
+💻 I enjoy building full-stack applications and applying mathematical reasoning to practical data problems.
 
 ---
 
