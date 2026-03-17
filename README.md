@@ -1,33 +1,33 @@
-
 <h1 align="center">Hi, I'm Ian Redman 👋</h1>
-<h3 align="center">
-Computer Science & Applied Mathematics Senior | Full-Stack & Analytical Projects
-</h3>
+<h3 align="center">Computer Science & Applied Mathematics Senior · Ouachita Baptist University</h3>
+
+<p align="center">
+I enjoy building full-stack applications and applying mathematical reasoning to practical data problems.<br>
+🚀 Actively seeking full-time software engineering roles — graduating May 2026.
+</p>
 
 ---
 
-🎓 I’m a senior at Ouachita Baptist University double majoring in Computer Science and Applied Mathematics.  
-💻 I enjoy building full-stack applications and applying mathematical reasoning to practical data problems.
+### 📂 Projects
+
+**Registration & Reservation Web App** — Node.js, SQLite, EJS, JavaScript  
+Full-stack web app for managing user registrations and reservations with a relational database backend.  
+👉 [View on GitHub](https://github.com/ianredmann/registration-reservation-system)
+
+**NASA Picture of the Day Viewer** — HTML, CSS, JavaScript, NASA API  
+Website that fetches and displays NASA's Astronomy Picture of the Day for any user-requested date using the NASA open API.  
+👉 [View on GitHub](https://github.com/ianredmann/nasa-picture-of-the-day)
+
+**Math Placement Effectiveness Study** — Statistical Analysis, R/Excel  
+Applied mathematics study analyzing whether Ouachita Baptist University's math placement process accurately reflects student performance and readiness.  
+👉 [View on GitHub](https://github.com/ianredmann/mpi-placement-analysis)
 
 ---
 
-### 🔭 Current Focus
-- Building a **Registration & Reservation Web App**  
-  (Node.js, SQLite, EJS, JavaScript)  
-  👉 [View Project](https://github.com/ianredmann/registration-reservation-system)
-
----
-
-### 🌱 What I’m Working On
-- Strengthening backend and database design skills  
-- Applying statistics and data analysis to real datasets  
-- Exploring foundations of AI and machine learning
-
----
-
-### 📫 Contact
-- Email: **ianredman858@gmail.com**
-- LinkedIn: <a href="https://www.linkedin.com/in/ian-redman-1288b4263/" target="_blank">ian-redman</a>
+### 🌱 Currently Learning
+- Backend architecture & database design  
+- Machine learning foundations  
+- Statistical modeling with real datasets  
 
 ---
 
@@ -47,3 +47,13 @@ Computer Science & Applied Mathematics Senior | Full-Stack & Analytical Projects
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
   <img src="https://img.shields.io/badge/Assembly-darkred?style=flat&logo=assemblyscript&logoColor=white" height="30"/>
 </p>
+
+---
+
+### 📫 Contact
+- Email: **ianredman858@gmail.com**
+- LinkedIn: <a href="https://www.linkedin.com/in/ian-redman-1288b4263/" target="_blank">ian-redman</a>
+
+---
+
+![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianredmann&show_icons=true&theme=default&hide_border=true)
