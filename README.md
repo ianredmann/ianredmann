@@ -55,5 +55,3 @@ Applied mathematics study analyzing whether Ouachita Baptist University's math p
 - LinkedIn: <a href="https://www.linkedin.com/in/ian-redman-1288b4263/" target="_blank">ian-redman</a>
 
 ---
-
-![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianredmann&show_icons=true&theme=default&hide_border=true)
