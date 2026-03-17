@@ -3,7 +3,7 @@
 
 <p align="center">
 I enjoy building full-stack applications and applying mathematical reasoning to practical data problems.<br>
-🚀 Actively seeking full-time software engineering roles — graduating May 2026.
+🚀 Actively seeking full-time software engineering and data analyst roles — graduating May 2026.
 </p>
 
 ---
