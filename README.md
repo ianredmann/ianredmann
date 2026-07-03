@@ -73,4 +73,4 @@ NCAA Division II swimmer at OBU — two-time Second Team All-American (2024–25
 ### 📫 Contact
 
 - Email: **ianredman858@gmail.com**
-- LinkedIn: <a href="https://www.linkedin.com/in/ian-redman-1288b4263/" target="_blank">ian-redman</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/ianredmann/" target="_blank">ian-redman</a>
