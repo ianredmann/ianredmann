@@ -24,7 +24,7 @@ Full-stack registration system with user authentication, scheduling, session-bas
 
 **WTI Crude Oil Geopolitical Risk Analysis** — Statistical Analysis, Excel
 Categorized ~400 daily WTI crude oil price observations across four geopolitical regimes and quantified volatility differences (~3x higher daily volatility during military escalation, confirmed by a Levene variance test, p < 0.0001), translating findings into regime-based strategy recommendations.
-👉 [View on GitHub](https://github.com/ianredmann/registration-reservation-system)
+👉 [View on GitHub](https://github.com/ianredmann/wti-crude-oil-geopolitical-risk-analysis)
 
 **Math Placement Effectiveness Study** — Statistical Analysis, R/Excel
 Applied mathematics study analyzing whether Ouachita Baptist University's Math Placement Index accurately reflects student performance and readiness.
